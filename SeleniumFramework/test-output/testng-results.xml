@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26157" started-at="2018-04-29T05:26:47Z" finished-at="2018-04-29T05:27:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26157" started-at="2018-04-29T05:26:47Z" finished-at="2018-04-29T05:27:14Z">
+      <class name="testcases.LoginTestCase">
+        <test-method status="PASS" signature="setupTestSuite()[pri:0, instance:testcases.LoginTestCase@55f3ddb1]" name="setupTestSuite" is-config="true" duration-ms="373" started-at="2018-04-29T01:26:47Z" finished-at="2018-04-29T01:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestSuite -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:testcases.LoginTestCase@55f3ddb1]" name="startTest" is-config="true" duration-ms="2478" started-at="2018-04-29T01:26:47Z" finished-at="2018-04-29T01:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.LoginTestCase@55f3ddb1]" name="login" duration-ms="23562" started-at="2018-04-29T01:26:50Z" finished-at="2018-04-29T01:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testcases.LoginTestCase@55f3ddb1]" name="endTest" is-config="true" duration-ms="97" started-at="2018-04-29T01:27:14Z" finished-at="2018-04-29T01:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDownTestSuite()[pri:0, instance:testcases.LoginTestCase@55f3ddb1]" name="tearDownTestSuite" is-config="true" duration-ms="371" started-at="2018-04-29T01:27:14Z" finished-at="2018-04-29T01:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTestSuite -->
+      </class> <!-- testcases.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
