@@ -16,6 +16,7 @@ public class ReadConfigFile
 		// Give the path
 		File src=new File("./configuration/browser.properties");
 		
+		
 		// Convert into raw data
 		FileInputStream fis=new FileInputStream(src);
 		
